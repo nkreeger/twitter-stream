@@ -15,19 +15,20 @@
     "url": "https://github.com/nkreeger/twitter-stream"
   },
   "devDependencies": {
+    "@tensorflow/tfjs": "0.9.1",
     "@types/node": "^9.6.5",
     "@types/socket.io": "^1.4.33",
+    "@types/twitter": "^0.0.28",
     "@types/uuid": "^3.4.3",
-    "@tensorflow/tfjs": "0.9.1",
     "clang-format": "^1.0.41-c",
     "containers.js": "^0.0.6",
     "rxjs": "^5.5.10",
     "socket.io": "^2.1.0",
     "ts-node": "^5.0.1",
     "tslint": "^5.9.1",
+    "twitter": "^1.7.1",
     "typescript": "^2.8.1",
     "uuid": "^3.2.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
