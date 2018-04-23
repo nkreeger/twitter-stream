@@ -31,10 +31,6 @@
   dependencies:
     "@types/node" "*"
 
-"@types/twitter@^0.0.28":
-  version "0.0.28"
-  resolved "https://registry.yarnpkg.com/@types/twitter/-/twitter-0.0.28.tgz#814ccca3d125412f4ea2eea16259251efa321ea2"
-
 "@types/uuid@^3.4.3":
   version "3.4.3"
   resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-3.4.3.tgz#121ace265f5569ce40f4f6d0ff78a338c732a754"
@@ -206,7 +202,7 @@ chalk@^2.3.0:
     escape-string-regexp "^1.0.5"
     supports-color "^5.3.0"
 
-clang-format@^1.0.41-c:
+clang-format@^1.2.3:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/clang-format/-/clang-format-1.2.3.tgz#2763561aa7449c43737480f8df3a2b5b66e6cf37"
   dependencies:
